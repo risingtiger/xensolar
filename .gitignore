@@ -1,0 +1,11 @@
+# Embedded C/C++
+.pio
+.vscode
+/test
+/target
+/include
+/lib
+/.ccls-cache
+.DS_Store
+**/.DS_Store
+boron_firmware**
